@@ -45,6 +45,7 @@ customer-churn-ai/
 │   ├── 02_preprocessing.ipynb
 │   └── 03_modeling.ipynb
 └── README.md
+```
 
 ## Tools
 Python, Pandas, NumPy, scikit-learn, Jupyter Notebook, Git
